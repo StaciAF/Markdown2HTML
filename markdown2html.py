@@ -1,4 +1,7 @@
 #!/usr/bin/python3
+"""
+this module checks length or args and redirects as needed
+"""
 import sys
 
 if __name__ == "__main__":
